@@ -9,7 +9,7 @@ Este repositorio contiene todos los módulos y el código necesarios para la **e
 El objetivo principal de este proyecto es mejorar la precisión y eficiencia en la elaboración de glosarios técnicos mediante:
 - Identificación de términos clave a partir de documentos de requisitos.
 - Agrupamiento semántico de términos relacionados.
-- Generación de glosarios organizados y listos para ser integrados en documentación técnica.
+  
 
 Esta metodología aborda desafíos como la diversidad lingüística en los documentos y la necesidad de una organización coherente y automatizada de términos técnicos.
 
@@ -32,11 +32,6 @@ El repositorio está organizado en módulos que cubren todo el pipeline de proce
 
 4. **Clustering Semántico**
    - Agrupamiento mediante **K-Means**, **EM**, o **Clusterización Jerárquica**.
-   - Evaluación con métricas como **distancia de Wasserstein** o **Word Mover’s Distance (WMD)**.
-
-5. **Generación del Glosario**
-   - Creación de un glosario estructurado, listo para su inclusión en documentación automatizada.
-
 ---
 
 ## **Instalación y Uso**
@@ -45,3 +40,4 @@ El repositorio está organizado en módulos que cubren todo el pipeline de proce
 Clona este repositorio en tu máquina local:
 ```bash
 git clone <URL_DEL_REPOSITORIO>
+pip install -r requirements.txt
