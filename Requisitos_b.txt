@@ -1,0 +1,100 @@
+como trabajador, quiero que mi casa inteligente pueda pedir comida a domicilio con una simple orden de voz
+como ocupante de una vivienda quiero que mi casa inteligente encienda ciertas luces al anochecer
+como trabajador, quiero que mi casa inteligente se sincronice con mi aplicación de biorritmo y ponga música que se adapte a mi estado de ánimo cuando llegue a casa del trabajo
+como aficionado a la televisión quiero que mi casa inteligente suene cuando mis programas favoritos están a punto de comenzar
+como estudiante quiero Recordatorios de clase
+como dueño de una mascota quiero Video feed de mis animales
+como ocupante de una vivienda, quiero que mi casa inteligente regule la temperatura ideal en función de mis preferencias personales y de la temperatura exterior
+como padre que trabaja, quiero que mi casa inteligente me envíe un mensaje de texto cuando mi hijo llegue del colegio
+como aficionado al hockey quiero que mi smart home reproduzca el gol de mi equipo en casa cuando marcan
+como padre, quiero que mi casa inteligente me mantenga informado de las actividades de mis hijos cuando estoy fuera de casa
+como padre quiero que mi casa inteligente me envíe una notificación cuando mis hijos lleguen a casa del colegio
+como cocinero quiero que me apaguen los fogones
+como ocupante de una vivienda, quiero que mi casa inteligente emita un determinado programa de televisión cuando llegue a casa
+como ocupante de una vivienda, quiero que mi casa inteligente emita un zumbido cuando la ducha esté a la temperatura que deseo
+como ocupante de una vivienda, quiero que mi casa inteligente se sincronice con mi alarma por la mañana para encender las luces y la ducha cuando sea la hora de levantarme
+como ocupante de una vivienda, quiero que mi casa inteligente apague el lavabo después de dos minutos cuando me lavo los dientes
+como padre quiero que mi casa inteligente cierre las puertas por la noche
+como habitante de una casa, quiero que mi alarma esté sincronizada con la preparación de la comida para que mi desayuno pueda estar en la mesa (o al menos listo en la tostadora o en el horno) cuando yo esté listo para comerlo
+como aficionado a la música quiero que haya música en toda la casa
+como ocupante de una vivienda, quiero que mi casa inteligente ajuste la temperatura en función del tiempo que haga fuera
+como conductor, quiero que mi casa inteligente abra la puerta de mi garaje cuando detecte que mi vehículo llega fuera de él
+como ocupante de una vivienda, quiero que mi casa inteligente apague las luces por mí en las habitaciones en las que no haya nadie
+como ocupante de una vivienda quiero que mi casa inteligente tenga aspersores automáticos
+como propietario, quiero que mi casa inteligente controle mi consumo de energía y me haga recomendaciones para reducirlo
+como padre, quiero que mi casa inteligente emita un zumbido en mi habitación si se produce una perturbación en la habitación de mi bebé
+como propietario quiero controlar la temperatura en cualquier momento
+como ocupante de una vivienda, quiero una luz de seguridad exterior que se encienda por la noche cuando detecte algo que no sea un miembro de la familia o un animal doméstico en el exterior
+como ocupante de una vivienda, quiero que mi casa inteligente me avise cuando alguien que no sea un familiar u otra persona de confianza esté cerca de mi casa
+como propietario, quiero que mi casa inteligente calcule qué fuentes de calor serían las mejores para mi hogar (bomba de calor sin conductos, horno normal, calefactores o cualquier combinación de los mismos)
+como ocupante de una vivienda quiero detectores de movimiento en el pasillo
+como ocupante de una vivienda, quiero que mi casa inteligente sincronice todas las luces relacionadas con la Navidad, interiores y exteriores, y las encienda y apague en el momento adecuado
+como ocupante de una vivienda, quiero que mi casa inteligente me notifique cuando una caja ha sido entregada en mi casa, preferiblemente con la información de embalaje de la etiqueta
+como ocupante de una vivienda quiero rociadores automáticos de fragancia
+como propietario de una vivienda, quiero que mi casa inteligente analice y recomiende las mejores fuentes para enfriar mi hogar (aire acondicionado, ventilador de ventana, ventilador de techo, bomba de calor sin conductos, etc.)
+como propietario de una vivienda quiero un detector de monóxido de carbono
+como padre quiero sensores de muebles afilados automatizados
+como propietario de una vivienda, quiero que mi casa inteligente controle a cualquier persona que se acerque a las puertas, ventanas, etc. de mi casa y me notifique si hay alguien que no vive en la vivienda
+como dueño de una mascota quiero un comedero automático
+como cocinero quiero aparatos inteligentes que me den información relevante sobre los alimentos que estoy cocinando
+como ocupante de una vivienda quiero que mi casa inteligente salude y haga fotos a cualquiera que entre en mi casa y no sea un ocupante registrado
+como dueño de una mascota quiero que mi smarthome me avise a través de la aplicación smartwatch cuando el recipiente de agua de mi mascota esté bajo
+como ocupante de una vivienda quiero sensores de temperatura
+como ocupante de una vivienda, quiero que mi casa inteligente me informe de las alertas meteorológicas de mi zona
+como residente quiero que mi casa inteligente tenga camaras de video fuera de mi casa
+como consumidor, quiero que mi casa inteligente me proporcione noticias y actualizaciones sobre mis aficiones
+como propietario de una planta, quiero que mi smarthome me avise cuando la tierra de mi planta esté demasiado seca
+como persona con dolor de espalda quiero que mi cama tenga funciones inteligentes que me permitan controlar la comodidad
+como persona que quiere mantenerse sana, quiero que mi casa inteligente controle mi cuerpo y me informe diaria o semanalmente cuando detecte un posible problema de salud
+como ocupante de una vivienda quiero un sistema de música automatizado
+como propietario de una vivienda, quiero que mi smarthome me avise cuando mi consumo de energía (electricidad, gas) sea superior al habitual
+como persona que quiere mantenerse sana, quiero que mi casa inteligente me haga recomendaciones diarias de actividades o alimentos que son buenos para mí, es decir, "hoy hace un tiempo perfecto para dar un agradable paseo"
+como propietario de una vivienda, quiero recibir una alerta cuando se rompa una ventana o se fuerce su apertura desde el exterior de la vivienda
+como padre quiero adaptadores de enchufe
+como propietario de una vivienda quiero controlar mis fogones con mi smartphone o tablet
+Como amante de la música, quiero poder escucharla en todas las habitaciones de la casa al mismo tiempo.
+como propietario quiero poder controlar el horno con una aplicación en mi smartphone o tablet
+como persona que necesita dormir, quiero que mi casa inteligente haga que mi dormitorio tenga la temperatura y la iluminación óptimas tanto cuando me voy a dormir como cuando me despierto
+como ocupante de una vivienda quiero sensores de movimiento exteriores
+como propietario quiero poder abrir la puerta del garaje con mi smartphone/tablet
+como estudiante, quiero que mi smartphone silencie las notificaciones (sonidos, timbres, televisores, etc.) a menos que se trate de una emergencia
+como ocupante de una vivienda quiero un controlador de la pureza del aire
+como espectador de cine, quiero que mi casa inteligente me haga recomendaciones cuando salgan nuevas películas que coincidan con mis hábitos de visionado
+como ocupante de una vivienda quiero que la electricidad se desconecte cuando no haya nadie dentro de la habitación
+como estudiante, quiero que mi smartphone cree un entorno (iluminación, sonido, temperatura)
+como ocupante de una vivienda quiero un termostato inteligente
+como dueño de una mascota quiero que mi casa inteligente limpie los suelos con regularidad
+como amante de la música quiero que el sistema de radio ajuste el volumen en función de la distancia de las personas
+como ocupante de una vivienda quiero una cafetera inteligente
+como dueño de una mascota quiero que mi casa inteligente alimente y dé de beber a las mascotas según un horario
+como ocupante de una vivienda quiero un robot que limpie las ventanas
+como ocupante de una vivienda quiero que el sistema central de aire acondicionado cambie entre refrigeración y calefacción en función de la temperatura
+como ocupante de una vivienda quiero una ducha inteligente
+como padre quiero que la mirada de la puerta tenga una alarma automatizada cuando alguien sale o entra en la habitación
+como ocupante de una vivienda quiero detectores inteligentes de monóxido de carbono
+Como padre, quiero que mi casa inteligente emita un zumbido cuando mi hijo esté cerca de un objeto que pueda caerse.
+como ocupante de una vivienda quiero que el aspirador funcione de forma automatizada en horarios programados
+como ocupante de una vivienda quiero un televisor inteligente con pantalla táctil implantado en la pared de cada habitación
+como amante de la tecnología quiero un cargador inalámbrico para mis dispositivos
+como ocupante de una vivienda quiero una aplicación para controlar las persianas de mis ventanas
+como ocupante de una casa quiero un dispositivo que organice los artículos de cocina y dé una alarma o haga el pedido cuando esté por debajo del límite
+como ocupante de una vivienda, quiero ajustar la temperatura de la habitación en función de mi ubicación (si estoy cerca, encender la calefacción/refrigerador, si estoy lejos de casa, apagarla)
+como ocupante de una vivienda quiero un termostato de aprendizaje
+como propietario de una vivienda quiero que se me notifique si dejo accidentalmente la estufa o el horno encendidos
+como ocupante de una vivienda quiero un mando automático para la puerta del garaje
+como soy yo quiero que cada vez que mi habitación es el ajuste del tiempo
+como amante de la música, quiero que la iluminación de mi habitación cambie en función de la hora del día
+como ocupante de una vivienda quiero cerraduras inteligentes
+como ocupante de una vivienda quiero un dispositivo inteligente que envíe fotos de las personas que entran por la puerta principal
+como ocupante de una vivienda, quiero que mi casa inteligente me avise mediante un sonido específico y un mensaje de texto a través del teléfono móvil de que alguien se ha acercado a mi coche situado en mi entrada.
+como ocupante de una vivienda quiero desbloquear la puerta desde una ubicación remota que tiene una alerta con la alimentación de vídeo
+como ocupante de una vivienda quiero limpiacristales inteligentes
+como ocupante de una vivienda quiero un dispositivo que reciba y dé la bienvenida a los invitados en la puerta
+como ocupante de una vivienda quiero detectores de movimiento exteriores
+como ocupante de una vivienda, quiero que las puertas se bloqueen y vuelvan a bloquearse automáticamente si estoy cerca (NFC, pulsera de infrarrojos o algo similar)
+como ocupante de una vivienda quiero electrodomésticos inteligentes para el desayuno
+como habitante de una casa quiero que mi casa inteligente encienda la tv cuando llegue a casa
+como ocupante de una vivienda quiero sensores de ventana
+como persona concienciada con la salud quiero que mi smarthome me notifique la calidad actual del aire en mi casa.
+como ocupante de una vivienda quiero electrónica inteligente integrada
+como ocupante de una vivienda quiero que se aspire sola cuando no estoy en casa (como la aspiradora roomba integrada)
